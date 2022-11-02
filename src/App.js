@@ -65,10 +65,10 @@ export default function App() {
               key={song.name}
               style={{
                 listStyle: "none",
-                padding: "1rem",
-                border: "1px solid #D1D5DB",
-                width: "70%",
-                margin: "1rem 0rem",
+                padding: "1.5rem",
+                border: "1px solid black",
+                width: "50%",
+                margin: "auto",
                 borderRadius: "0.5rem"
               }}
             >
